@@ -1,7 +1,7 @@
 * {
-    margin: 0 /* 55¹øÂ° ¼öÁ¤*/ !important;
+    margin: 0 /* 55ë²ˆì§¸ ìˆ˜ì •*/ !important;
     padding: 0 !important;
-    box-sizing: border-box !important;
+    box-sizing:  border-box !important;
 }
 
 html, body {
@@ -17,9 +17,9 @@ html, body {
     height: 720px;
 }
 
-    [class*="overlay_donation_alarm"] * {
-        pointer-events: none;
-    }
+[class*="overlay_donation_alarm"] * {
+    pointer-events: none;
+}
 
 iframe[src*="youtube-nocookie.com"],
 iframe[src*="/embed-clip-donation/"] {
