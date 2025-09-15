@@ -1,4 +1,5 @@
 케인TV 팬카페: https://cafe.naver.com/kanetv/63040
+<img width="850" height="631" alt="image" src="https://github.com/user-attachments/assets/c73cac0e-d4e3-466c-92a8-03430c2bae2b" />
 # [OBS] 치지직 영도 사용자 지정 CSS
 · 치지직 업데이트 후에도 고장나지 않도록 수정했습니다<br/>
 · 영상 자동 맞춤, 글자, 배지 크기 등 최대한 기존 영도 느낌 나도록 수정했습니다<br/>
