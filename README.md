@@ -28,7 +28,7 @@ html, body {
 [class*="overlay_donation_alarm"] {
     position: relative !important;
     width: 1280px;
-    height: 1080px;
+    height: 720px;
 }
 
 [class*="overlay_donation_alarm"] * {
