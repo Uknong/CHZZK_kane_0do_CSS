@@ -13,9 +13,9 @@ OBS→영상 후원 알림 소스의 속성<br/>
 
 ```css
 * {
-    margin: 0 /* 79번째 수정 */ !important;
+    margin: 0 /* 80번째 수정 */ !important;
     padding: 0 !important;
-    box-sizing:  border-box !important;
+    box-sizing: border-box !important;
 }
 
 html, body {
@@ -28,13 +28,14 @@ html, body {
 [class*="overlay_donation_alarm"] {
     position: relative !important;
     width: 1280px;
-    height: 720px;
+    height: 1080px;
 }
 
 [class*="overlay_donation_alarm"] * {
     pointer-events: none;
 }
 
+iframe[src*="youtube.com"],
 iframe[src*="youtube-nocookie.com"],
 iframe[src*="/embed-clip-donation/"],
 iframe#chzzk_player {
